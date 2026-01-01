@@ -10,27 +10,59 @@
 ---
 
 ### About Me
-I’m a tech enthusiast with a strong interest in cloud computing, AI-powered automation, and data engineering. I like working at the intersection of **technology, automation, and product thinking**, where systems are designed not just to work, but to scale and create real impact.
+I’m a tech enthusiast with a strong interest in cloud computing, AI-powered automation, and data engineering. I enjoy working at the intersection of **technology, automation, and product thinking**, where systems are designed not just to work, but to scale and create real-world impact.
 
-I’m especially curious about how AI and automation can simplify workflows, improve decision-making, and enable smarter products.
+I’m particularly curious about how AI and automation can simplify workflows, improve decision-making, and enable smarter products.
 
 ---
 
 ### What I’m Exploring
-- Building and understanding cloud-native systems  
-- AI-driven and intelligent automation use cases  
-- Robotic Process Automation (RPA) for real-world workflows  
+- Cloud-native architectures and distributed systems  
+- AI-driven and intelligent automation  
+- Robotic Process Automation (RPA) for business workflows  
 - Data pipelines, analytics, and insights  
-- Product thinking: translating ideas into usable solutions  
+- Product thinking and system design  
 
 ---
 
 ### Skills & Tools
-- **Languages:** Python, SQL  
-- **Cloud:** AWS / Azure / GCP (Fundamentals)  
-- **Data:** ETL, Data Pipelines, Analytics  
-- **Automation:** RPA, Workflow Automation  
-- **Product:** Agile, Requirement Analysis  
+
+**Programming Languages**  
+- Python, Java, PHP, ASP.NET  
+
+**Web Development**  
+- Next.js, Node.js, React.js, Wix, WordPress  
+
+**Mobile Development**  
+- Android Studio, Flutter  
+
+**Big Data & Analytics**  
+- Apache Hadoop, Apache Spark, Kafka, Tableau  
+
+**AI, ML & Automation**  
+- AI/ML Fundamentals  
+- Automation Anywhere, UiPath, n8n  
+
+**Databases**  
+- MySQL, MongoDB  
+
+**Cloud & DevOps**  
+- Git, GitHub  
+- Docker, Jenkins, Ansible  
+- CI/CD Pipelines  
+- AWS (EC2, S3), Google Cloud Platform  
+
+**Design & Architecture**  
+- Figma  
+- System Architecture Design  
+- IoT Fundamentals  
+
+**Soft Skills**  
+- Project Management  
+- Problem-Solving & Critical Thinking  
+- Leadership  
+- Adaptability & Flexibility  
+- Attention to Detail  
 
 ---
 
@@ -60,5 +92,5 @@ I’m especially curious about how AI and automation can simplify workflows, imp
 ---
 
 <p align="center">
-  Curious • Building • Learning • Improving
+  Curious • Learning • Building • Improving
 </p>
