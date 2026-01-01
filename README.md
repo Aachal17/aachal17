@@ -25,6 +25,31 @@ I’m particularly curious about how AI and automation can simplify workflows, i
 
 ---
 
+### Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aachal-shah-83274519b">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aachal17">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="24"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/aachalshah17">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="24"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/AachalShah01">
+    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" height="24"/>
+  </a>
+  &nbsp;
+  <a href="mailto:work.aachalshah@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="24"/>
+  </a>
+</p>
+
+---
+
 ### Skills & Tools
 
 **Programming Languages**  
@@ -63,31 +88,6 @@ I’m particularly curious about how AI and automation can simplify workflows, i
 - Leadership  
 - Adaptability & Flexibility  
 - Attention to Detail  
-
----
-
-### Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aachal-shah-83274519b">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Aachal17">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="24"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/aachalshah17">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="24"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/AachalShah01">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" height="24"/>
-  </a>
-  &nbsp;
-  <a href="mailto:work.aachalshah@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="24"/>
-  </a>
-</p>
 
 ---
 
