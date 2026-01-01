@@ -16,15 +16,6 @@ I’m particularly curious about how AI and automation can simplify workflows, i
 
 ---
 
-### What I’m Exploring
-- Cloud-native architectures and distributed systems  
-- AI-driven and intelligent automation  
-- Robotic Process Automation (RPA) for business workflows  
-- Data pipelines, analytics, and insights  
-- Product thinking and system design  
-
----
-
 ### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aachal-shah-83274519b">
@@ -47,6 +38,15 @@ I’m particularly curious about how AI and automation can simplify workflows, i
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="24"/>
   </a>
 </p>
+
+---
+
+### What I’m Exploring
+- Cloud-native architectures and distributed systems  
+- AI-driven and intelligent automation  
+- Robotic Process Automation (RPA) for business workflows  
+- Data pipelines, analytics, and insights  
+- Product thinking and system design  
 
 ---
 
