@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aachal Shah</h1>
 <p align="center">
-  Cloud • AI Automation • RPA • Data Engineering • Product
+  Flutter • AI First Engineering • Cloud • AI/ML • Data Engineering • Product Management
 </p>
 
 <p align="center">
